@@ -1,7 +1,8 @@
 # Hacker news - search interface
 
 Search interface to query the HackerNews through their REST API.
-HackerNews (HN) is a popular social news website focussed on technolog
+HackerNews (HN) is a popular social news website focussed on technologtechnology and
+entrepreneurship.
 
 
 <br>
