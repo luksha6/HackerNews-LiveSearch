@@ -1,4 +1,4 @@
-# hacker-news-search
+# Hacker News LIVE SEARCH
 
 ## Project setup
 ```
